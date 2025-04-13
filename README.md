@@ -2,7 +2,7 @@
 
 A desktop application that allows you to apply live video wallpapers to your Windows desktop. Built with Python.
 
-Go through the [website](https://akshatbigman.github.io/Pyground-web/) for installation and demo!
+Go through the [website](https://itsakshatsh.github.io/Pyground-web/) for installation and demo!
 
 ## Features
 
